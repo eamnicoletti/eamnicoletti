@@ -1,5 +1,5 @@
 <h3>
-  Hello there Koder! 
+  Hello There Coder! 
   🖖
 </h3>
 - 👀 I’m interested in Flutter and React-Native </br>
