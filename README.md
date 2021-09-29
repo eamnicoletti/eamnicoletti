@@ -8,8 +8,8 @@
 <!-- - 📫 How to reach me ... -->
 </br>
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eamnicoletti/)  
 [![Gmail Badge](https://img.shields.io/badge/-eamnicoletti@gmail.com-c14438?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eamnicoletti@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eamnicoletti/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/nicolettiemilio)
 
 <!--
