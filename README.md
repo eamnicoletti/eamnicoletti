@@ -2,7 +2,7 @@
   Hello There Coder! 
   🖖
 </h3>
-- 👀 I’m interested in Flutter and React-Native </br>
+- 👀 I’m interested in Flutter </br>
 - 🌱 I’m currently learning Flutter </br>
 - 💞️ I’m looking to collaborate on JS development projects </br>
 <!-- - 📫 How to reach me ... -->
