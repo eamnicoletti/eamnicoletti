@@ -8,9 +8,12 @@
 <!-- - 📫 How to reach me ... -->
 </br>
 
-[![Gmail Badge](https://img.shields.io/badge/-eamnicoletti@gmail.com-c14438?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eamnicoletti@gmail.com)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eamnicoletti/)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/nicolettiemilio)
+
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/eamnicoletti)](https://github.com/eamnicoletti) 
+[![Gmail Badge](https://img.shields.io/badge/-eamnicoletti@gmail.com-c14438?style=flat-square&logo=gmail&logoColor=white)](mailto:eamnicoletti@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eamnicoletti/)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/nicolettiemilio)
+
 
 ### Technologies & Tools
 
@@ -19,10 +22,9 @@
 ![](https://img.shields.io/badge/Code-Node.Js-informational?style=flat&logo=node.js&logoColor=white&color=brightgreen)
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=brightgreen)
 ![](https://img.shields.io/badge/Database-MySql-informational?style=flat&logo=mysql&logoColor=white&color=brightgreen)
-![](https://img.shields.io/badge/Database-GoogleCloud-informational?style=flat&logo=googlecloud&logoColor=white&color=brightgreen)
 ![](https://img.shields.io/badge/BaaS-Firebase-informational?style=flat&logo=firebase&logoColor=white&color=brightgreen)
 ![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=Amazon&logoColor=white&color=brightgreen)
-![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=Amazon&logoColor=white&color=brightgreen)
+![](https://img.shields.io/badge/Cloud-GoogleCloud-informational?style=flat&logo=googlecloud&logoColor=white&color=brightgreen)
 ![](https://img.shields.io/badge/Tool-AfterEffects-informational?style=flat&logo=adobeaftereffects&logoColor=white&color=brightgreen)
 ![](https://img.shields.io/badge/Tool-Photoshop-informational?style=flat&logo=adobephotoshop&logoColor=white&color=brightgreen)
 ![](https://img.shields.io/badge/Tool-Illustrator-informational?style=flat&logo=adobeillustrator&logoColor=white&color=brightgreen)
