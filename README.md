@@ -19,6 +19,7 @@
 ![](https://img.shields.io/badge/Code-Node.Js-informational?style=flat&logo=node.js&logoColor=white&color=brightgreen)
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=brightgreen)
 ![](https://img.shields.io/badge/Database-MySql-informational?style=flat&logo=mysql&logoColor=white&color=brightgreen)
+![](https://img.shields.io/badge/Database-GoogleCloud-informational?style=flat&logo=googlecloud&logoColor=white&color=brightgreen)
 ![](https://img.shields.io/badge/BaaS-Firebase-informational?style=flat&logo=firebase&logoColor=white&color=brightgreen)
 ![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=Amazon&logoColor=white&color=brightgreen)
 ![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=Amazon&logoColor=white&color=brightgreen)
