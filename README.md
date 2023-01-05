@@ -23,7 +23,7 @@
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=brightgreen)
 ![](https://img.shields.io/badge/Database-MySql-informational?style=flat&logo=mysql&logoColor=white&color=brightgreen)
 ![](https://img.shields.io/badge/BaaS-Firebase-informational?style=flat&logo=firebase&logoColor=white&color=brightgreen)
-![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=Amazon&logoColor=white&color=brightgreen)
+![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazonaws&logoColor=white&color=brightgreen)
 ![](https://img.shields.io/badge/Cloud-GoogleCloud-informational?style=flat&logo=googlecloud&logoColor=white&color=brightgreen)
 ![](https://img.shields.io/badge/Tool-AfterEffects-informational?style=flat&logo=adobeaftereffects&logoColor=white&color=brightgreen)
 ![](https://img.shields.io/badge/Tool-Photoshop-informational?style=flat&logo=adobephotoshop&logoColor=white&color=brightgreen)
