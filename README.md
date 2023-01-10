@@ -1,19 +1,18 @@
-<h3>
-  Hello There Coder! 
-  🖖
-</h3>
-- 👀 I’m interested in Flutter </br>
-- 🌱 I’m currently learning Flutter </br>
-- 💞️ I’m looking to collaborate on Flutter development projects </br>
-<!-- - 📫 How to reach me ... -->
-</br>
-
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/eamnicoletti)](https://github.com/eamnicoletti) 
 [![Gmail Badge](https://img.shields.io/badge/-eamnicoletti@gmail.com-c14438?style=flat-square&logo=gmail&logoColor=white)](mailto:eamnicoletti@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eamnicoletti/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/nicolettiemilio)
 
+<h3>
+  Hello There Coder! 
+  🖖
+</h3>
+- I’m interested in Flutter </br>
+- I’m currently learning Flutter </br>
+- I’m looking to collaborate on Flutter development projects </br>
+<!-- - 📫 How to reach me ... -->
+</br>
 
 ### Technologies & Tools
 
