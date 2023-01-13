@@ -20,7 +20,7 @@
 ![](https://img.shields.io/badge/BaaS-Firebase-informational?style=flat&logo=firebase&logoColor=white&color=brightgreen)
 ![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazonaws&logoColor=white&color=brightgreen)
 ![](https://img.shields.io/badge/Cloud-GoogleCloud-informational?style=flat&logo=googlecloud&logoColor=white&color=brightgreen)
-![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=brightgreen)
+![](https://img.shields.io/badge/Tool-Docker-informational?style=flat&logo=docker&logoColor=white&color=brightgreen)
 ![](https://img.shields.io/badge/Tool-AfterEffects-informational?style=flat&logo=adobeaftereffects&logoColor=white&color=brightgreen)
 ![](https://img.shields.io/badge/Tool-Photoshop-informational?style=flat&logo=adobephotoshop&logoColor=white&color=brightgreen)
 ![](https://img.shields.io/badge/Tool-Illustrator-informational?style=flat&logo=adobeillustrator&logoColor=white&color=brightgreen)
