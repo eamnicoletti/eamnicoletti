@@ -1,8 +1,10 @@
+<!-- - 
 ### Hello There Coder! 🖖
 
 - I’m interested in Flutter </br>
 - I’m currently learning Flutter </br>
 - I’m looking to collaborate on Flutter development projects </br>
+-->
 <!-- - 📫 How to reach me ... -->
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/eamnicoletti)](https://github.com/eamnicoletti) 
