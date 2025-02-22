@@ -10,7 +10,7 @@
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/eamnicoletti)](https://github.com/eamnicoletti) 
 [![Gmail Badge](https://img.shields.io/badge/-eamnicoletti@gmail.com-c14438?style=flat-square&logo=gmail&logoColor=white)](mailto:eamnicoletti@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAYAAAAeP4ixAAAACXBIWXMAAAsTAAALEwEAmpwYAAABd0lEQVR4nO3WMWsUQRiA4U8vhWBhYykEjb0QBC0t8gsk2MdO/4KYOoUBW/+CoGgbsMkhVqYwIZ0EgpUkCEmMmoCPbFghheve3IXc3DIPXHPsLPty8+1cRFGcD9zEc2xiv/5s4BmmYxJgAT80O8B85Az38Fu7I8xGrrBicK8iV/iWELITucJuQsjXyBXeJIS8jlxhth7kNse4HTnDfey1vH4fxCTANSzh06kDcX2iDsQiJ3if8Nbqn8Va9DBXb9sP2MZPHGILb/EIV1JCkoyyFlN4jM8DXr9XX38ht5A1w1nB5ZxCRvEOl7oQUlnuSsgxbnUhpPKyKyG/cLULIZWHXQl5Me6Q73iKG7iIGSzW36f4OM6Q6mHvNMzp3frvyaC+jDPkyb8iTt1rMeFeh+MMud4SMjPsc5x3SK8lpDcRIf+L+KuEVMovEmVrNTLKzJWtFWVrNVK2VpQZOVFO9gbKjESZkSxnpJ+wfnXItasDhvTP8n5FUUT8AY7kTReynNAFAAAAAElFTkSuQmCC)](https://www.linkedin.com/in/eamnicoletti/)
-[![YouTube Badge](https://img.shields.io/badge/-YouTube-FF0033?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@nicoletti05)
+[![YouTube Badge](https://img.shields.io/badge/-YouTube-white?style=flat-square&logo=youtube&logoColor=FF0033)](https://www.youtube.com/@nicoletti05)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/nicolettiemilio)
 
 ### Technologies & Tools
